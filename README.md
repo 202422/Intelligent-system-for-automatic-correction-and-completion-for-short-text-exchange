@@ -25,3 +25,9 @@ To collect the dataset named *automatic_correction_dataset.csv*, I have created 
 - Extracts only \<p> paragraphs with \<NS>\<i>\</i>\<c>\</c>\</NS>
 - Splits into sentences, extract wrong/correct pairs
 - Aggregates all pairs in a DataFrame
+
+## Auto correcteur
+
+![](/Assets/metric.png)  
+
+![](/Assets/test.png)
